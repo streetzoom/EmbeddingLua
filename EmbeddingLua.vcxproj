@@ -156,6 +156,9 @@
   <ItemGroup>
     <ClCompile Include="EmbeddingLua.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Test.lua" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
